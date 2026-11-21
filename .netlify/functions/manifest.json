@@ -1,0 +1,1 @@
+{"functions":[{"bundler":"esbuild","buildData":{"runtimeAPIVersion":1},"mainFile":"/app/applet/netlify/functions/telegram.mjs","name":"telegram","priority":10,"runtimeVersion":"nodejs22.x","path":"/app/applet/.netlify/functions/telegram.zip","runtime":"js"}],"system":{"arch":"x64","platform":"linux"},"timestamp":1791992114144,"version":1}

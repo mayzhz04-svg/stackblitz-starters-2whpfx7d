@@ -1,0 +1,8 @@
+{
+  "name": "Fazaa",
+  "description": "Fazaa discount and card services portal with verification and payment flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

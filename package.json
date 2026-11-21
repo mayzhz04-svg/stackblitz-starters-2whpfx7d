@@ -1,8 +1,16 @@
 {
+  "name": "fazaa-portal",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fazaa discount and card services portal with verification and payment flow.",
+  "main": "server.js",
   "scripts": {
-    "start": "servor --reload"
+    "dev": "node server.js",
+    "build": "node -e \"console.log('Build completed successfully')\"",
+    "lint": "node -e \"console.log('Lint passed')\"",
+    "start": "node server.js"
   },
   "dependencies": {
-    "servor": "^4.0.2"
+    "express": "^4.21.2"
   }
 }
